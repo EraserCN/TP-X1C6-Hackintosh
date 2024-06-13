@@ -3,7 +3,7 @@
 
 基于 Opencore 的 ThinkPad X1 Carbon 2018 黑苹果 EFI 文件。已测试 macOS Monterey 12 和 Ventura 13。
 
-**[中文版](https://github.com/EraserCN/B450M-Hackintosh/blob/master/中文版.md)**
+**目前安装Sonoma会出现开机bootloop,请使用Ventura.**
 
 ![截图 2024-06-13 23.00.44](assets/Screenshot%202024-06-13%20at%2023.00.44.png)
 
@@ -14,7 +14,7 @@
 
 # 我的硬件
 
-组件 | 规格
+类别 | 规格
 ------------ | -------------
 **笔记本型号** | ThinkPad X1 Carbon 第6代 (20KG)
 **CPU** | Intel Core i5 8350U
@@ -23,7 +23,7 @@
 **显卡** | Intel UHD Graphics 620
 **内存** | 16GB LPDDR3 2133 MHz
 **存储** | 512GB WD SN580 NVME SSD
-**macOS** | 12.0-14.5
+**macOS** | 12.0-13.6.7
 
 # 工作正常的部分
 

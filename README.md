@@ -1,6 +1,8 @@
 # ThinkPad X1 Carbon 2018 Hackintosh  
 ThinkPad X1 Carbon 2018 Hackintosh EFI Files based on Opencore. Tested for macOS Monterey 12 &amp; Ventura 13
 
+**Installing Sonoma will result in Bootloops, please use Ventura and wait for updates.**
+
 **[中文版](https://github.com/EraserCN/TP-X1C6-Hackintosh/blob/main/readme-cn.md)**
 ![Screenshot 2024-06-13 at 23.00.44](assets/Screenshot%202024-06-13%20at%2023.00.44.png)
 
@@ -21,7 +23,7 @@ Components | Specifications
 **Graphics** | Intel UHD Graphics 620  
 **RAM** | 16GB LPDDR3 2133 MHz  
 **Storage** | 512GB WD SN580 NVME SSD
-**macOS** | 12.0-14.5 
+**macOS** | 12.0-13.6.7
   
 # What's Working?  
 - All USB Ports   
