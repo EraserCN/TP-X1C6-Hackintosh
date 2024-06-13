@@ -1,7 +1,7 @@
 # ThinkPad X1 Carbon 2018 Hackintosh  
 ThinkPad X1 Carbon 2018 Hackintosh EFI Files based on Opencore. Tested for macOS Monterey 12 &amp; Ventura 13
 
-**[中文版](https://github.com/EraserCN/B450M-Hackintosh/blob/master/中文版.md)**
+**[中文版](https://github.com/EraserCN/TP-X1C6-Hackintosh/blob/main/readme-cn.md)**
 ![Screenshot 2024-06-13 at 23.00.44](assets/Screenshot%202024-06-13%20at%2023.00.44.png)
 
 
